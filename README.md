@@ -5,7 +5,7 @@ Terminal and pygame version will not be updated.
 Tkinter will be updated once and a while.
 
 When I say very basic, I mean very basic.
-There is no payment method. If I get a card reader Ill code it in but I dont have a way to code it in and test it.
+There is no payment method. If I get a card reader Ill code it in but I dont have a way to code it in without it being untested right now.
 So without it this is basicly a nonfuctioning POS.
 
 What does each version do:
@@ -16,7 +16,7 @@ What does each version do:
     prints receipt
 
     pygame version:
-    Does wht the Terminal version does
+    Does what the Terminal version does
     able to take things off of choosen items 
     Mouse and keyboard friendly
 
